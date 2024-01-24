@@ -1,2 +1,1 @@
-# threejs-plane
-threejs-飞机模型
+# 学习threejs 几何模型的一个demo
